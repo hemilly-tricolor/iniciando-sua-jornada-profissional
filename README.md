@@ -1,15 +1,15 @@
 Hemilly Gonçalves Mendes 
-(DDD) 11111-1111 
-seumelhoremail@xx.com
-Linkedin: @seulinkedin (se tiver)
+(43) 99656-1825
+@escola.pr.gov.br
+Linkedin: m.hemilly@escola.pr.gov.br
 
 
 OBJETIVO
-Descreva o que quer como objetivo profissional, o que já fez que é relacionado a isso e o motivo de querer trabalhar com isso. 
+Me formar em uma boa faculadade. 
 
 
 FORMAÇÃO ACADÊMICA
-Nome do seu colégio/faculdade - ano letivo (se concluiu ou ainda está cursando)
+Colégio Estadual Rio Branco ensino Fundamental e Médio - 2025.
 
 
 PROJETOS Página Web:  desenvolvendo um recomendador de filmes com JavaScript.
@@ -25,20 +25,9 @@ TECNOLOGIAS
     • Data Science
 
 
-EXPERIÊNCIA PROFISSIONAL (caso tenha alguma. Se não tiver, retire)
-
-Coloque o nome do lugar que fez estágio/voluntariado/freela.. (ano - atual) coloque em ordem do mais recente para o mais antigo
-Cargo:  caso tenha tido.
-Atividade:
-    • Atividade 1 de maneira resumida.
-    • Atividade 2 de maneira resumida.
-    • Atividade 3 …
-
-
-
 CURSOS | CERTIFICAÇÕES 
 criando uma aventura com HTML, CSS e JavaScript- Alura(2025)
 
 
 IDIOMAS
-Inglês Avançado - lugar onde fez (ano em que fez - do mais recente para o mais novo)
+inglês basico - Colégio Estadual ensino Fundamental e Médio 
